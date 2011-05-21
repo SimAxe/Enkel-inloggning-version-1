@@ -2,10 +2,12 @@
 //Måste vara överst eftersom session_start() finns i filen
 require ("login.function.php");
 
+
+//Loggar ut användaren om ?logout finns i adressen
 if ( isset($_GET['logout']) )
 {
     logout();
-	header("Location: ./");
+    header("Location: ./");
 }
 
 ?>
