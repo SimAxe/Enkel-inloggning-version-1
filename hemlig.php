@@ -8,11 +8,11 @@ if ( !is_logon() )
 	//Skicka oss till index.php
     header("Location: index.php");
 	
-	//Avsluta, visa inge mer kod på denna sida
+	//Avsluta, visa ingen mer kod på denna sida
 	exit;
 }
 
-//Allt här under kommer ebart att visas för
+//Allt här under kommer enbart att visas för
 //dem som är inloggade
 ?>
 
