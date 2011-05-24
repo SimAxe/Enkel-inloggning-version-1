@@ -1,7 +1,7 @@
 <?php
 /****************************************************************************************************
  * Ett enkelt inloggningssystem utan krav på databas. Systemet är fritt att använda och modifiera.
- * Skrivet av Felix Stridsberg för webbdesign.ifokus.se 20-05-2011
+ * Skrivet av Felix Stridsberg för webbprogrammering.ifokus.se 20-05-2011
  ****************************************************************************************************/
  
 // Vi börjar med att starta sessionsfunktionen 
